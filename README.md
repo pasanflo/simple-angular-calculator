@@ -1,27 +1,24 @@
-# Frontend01
+# Angular Calculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+## _Simple Angular Calculator using Windows style_
 
-## Development server
+![Calculator](https://raw.githubusercontent.com/pasanflo/simple-angular-calculator/f05ed5c0e52953369024b35e7977317440bc3603/src/assets/calculator.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+This is a calculator made for learning purposes and it supports addition, substraction and multiplication. Feel free to check it out and open any issue.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
 
-## Build
+I used [Node.js](https://nodejs.org/) v14.02 and [Angular](https://angular.io/) v11.02 to run.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Install the dependencies and devDependencies and start the server.
 
-## Running unit tests
+```sh
+npm i
+ng serve
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## License
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+MIT
